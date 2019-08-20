@@ -1,8 +1,9 @@
-# Classic-Wallet-Helper
+# Slider Puzzle List
 
-Technical support for "Classic-Wallet-Helper"
+Technical support for "Slider Puzzle List"
 
-We will provide technical support for this app（Classic Wallet Helper）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: orvillesmail@gmail.com
+We are provide technical support for this app, you can directly reply to the contact developer.
+Email: sliderpuzzlelistDev@gmail.com
 
 Privacy Policy
 
