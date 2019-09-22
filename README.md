@@ -1,9 +1,9 @@
-# Slider Puzzle List
+# Multi-function-Note
 
-Technical support for "Slider Puzzle List"
+Technical support for "Multi-function-Note"
 
 We are provide technical support for this app, you can directly reply to the contact developer.
-Email: sliderpuzzlelistDev@gmail.com
+Email: MultifunctionNote@gmail.com
 
 Privacy Policy
 
