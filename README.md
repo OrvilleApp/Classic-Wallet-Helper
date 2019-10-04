@@ -1,9 +1,9 @@
-# Multi-function-Note
+# Jigsaw Collection
 
-Technical support for "Multi-function-Note"
+Technical support for "Jigsaw Collection"
 
 We are provide technical support for this app, you can directly reply to the contact developer.
-Email: MultifunctionNote@gmail.com
+Email: wpc1234321@yeah.net
 
 Privacy Policy
 
