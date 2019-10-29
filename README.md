@@ -1,9 +1,9 @@
-# Jigsaw Collection
+# Zoo Maze
 
-Technical support for "Jigsaw Collection"
+Technical support for "Zoo Maze"
 
 We are provide technical support for this app, you can directly reply to the contact developer.
-Email: wpc1234321@yeah.net
+Email: zoomazewl@gmail.com
 
 Privacy Policy
 
